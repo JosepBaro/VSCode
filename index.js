@@ -12,10 +12,10 @@ let objectTest = {
   "3": 3,
   show() {console.log(this[1])},
 }
+// this and added coment
 
 objectTest.show();
-// function write(test) {
-//   // console.log(test);
+/ // console.log(test);
 //   if (typeof (test) == "object") {
 //     console.log( Object.getOwnPropertyNames(test)[0]);
 //     for (key in test) {
