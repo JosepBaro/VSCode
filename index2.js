@@ -6,3 +6,5 @@ map.set('1', 'str1')
 map.forEach((value,key) => {
   console.log( key," : ", value);
 });
+
+//and this is a comment
